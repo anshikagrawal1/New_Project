@@ -5,6 +5,7 @@ n1, n2 = 0, 1
 count = 0
 l = []
 
+
 while count < 26:
     l.append(n1)
     nth = n1 + n2
@@ -21,7 +22,7 @@ print(d)
 input1= input()
 sum = 0
 for i in input1:
-    sum = sum  + d[i]
+    sum = sum + d[i]
     
 print(sum)
 
