@@ -20,10 +20,10 @@ for i in range(len(l)):
 print(d)
 
 input1= input()
-sum = 0
+sum_ = 0
 for i in input1:
-    sum = sum + d[i]
+    sum_ = sum_ + d[i]
     
-print(sum)
+print(sum_)
 
-#comment
+
